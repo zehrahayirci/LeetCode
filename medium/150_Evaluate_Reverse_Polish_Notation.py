@@ -19,3 +19,4 @@ class Solution:
             #print(stack)
         return stack[0]
                 
+                
