@@ -10,3 +10,10 @@ class Solution:
         gt = [v for v in nums if v > pivot]
 
         return self.sortArray(lt) + eq + self.sortArray(gt)
+
+
+
+
+
+
+
